@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Anastasya Gutorkina](https://up.htmlacademy.ru/htmlcss/25/user/1069629).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Зайцев] (https://htmlacademy.ru/profile/yuryzaytsev).
 
 ---
 
